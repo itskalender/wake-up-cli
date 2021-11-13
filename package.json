@@ -1,0 +1,20 @@
+{
+  "name": "wake-up",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "wake-up" : "./index.js"
+  },
+  "author": "Kalender Toptas <toptaskalender@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "open": "^8.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

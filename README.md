@@ -1,3 +1,3 @@
 # Wake-up CLI
 
-A very very plain and simple CLI for practicing & make my waking-up song opening time shorter.
+A very very plain and simple CLI for practicing & spending less time to find the my wake-up song.
